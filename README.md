@@ -13,3 +13,9 @@ Verifying that the changes have been updated to the master branch.
 
 
 ![Verifying Change](https://user-images.githubusercontent.com/49535429/73086855-67c66980-3e9f-11ea-9782-f2370f750432.PNG)
+
+
+Adding the helloWorld.java file through GitHub.
+
+
+![helloWorld](https://user-images.githubusercontent.com/49535429/73287203-de78a500-41c6-11ea-9d35-9f1e8b398032.PNG)
